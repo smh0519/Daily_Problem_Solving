@@ -1,0 +1,21 @@
+### C++ 및 빌드 결과물 ###
+*.exe
+*.obj
+*.o
+*.out
+x64/
+x86/
+[Dd]ebug/
+[Rr]elease/
+
+### IDE 설정 (절대 금지) ###
+.vs/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+### 기타 ###
+Thumbs.db
+.DS_Store
